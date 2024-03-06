@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "bharat kale",
+      "email": "kalebharat330@gmail.com",
+      "number": 9423944840,
+      "password": 12345
+    },
+    {
+      "name": "ganesh pawal",
+      "email": "ganesh20@gmail.com",
+      "number": 2299345069,
+      "password": 23567,
+      "id": 2
+    },
+    {
+      "name": "Dnyneshwar kale",
+      "email": "kalebharat036@gmail.com",
+      "number": 8806984840,
+      "password": "654432",
+      "id": 3
+    },
+    {
+      "name": "mahesh udan",
+      "email": "mahesh25@gmail.com",
+      "number": 8754556689,
+      "password": "98765",
+      "id": 5
+    },
+    {
+      "name": "lakshiman phartare",
+      "email": "lakshiman28@gmail.com",
+      "number": 8653234567,
+      "password": "342563",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
